@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 
+This repo is the implementation of article "Sparse Brains are Also Adaptive Brains"(https://arxiv.org/abs/2502.19078).
+
 CLADA (**C**ognitive-**L**oad-**A**ware **D**ynamic **A**ctivation) is a novel framework for efficient LLM inference that dynamically adjusts neuron activation patterns based on real-time cognitive load metrics. Inspired by human neurolinguistic mechanisms (N400/P600 ERPs), CLADA achieves **~20% inference speedup** with **<2% accuracy drop** across six LLM architectures and nine benchmarks.
 
 ## Key Features
