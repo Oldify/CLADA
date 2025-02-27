@@ -99,11 +99,14 @@ CLADA achieves significant speedup while maintaining accuracy:
 
 If you use CLADA in your research, please cite(Will update later):
 ```bibtex
-@article{clada2024,
-  title={Sparse Brains are Also Adaptive Brains: Cognitive-Load-Aware Dynamic Activation for LLMs},
-  author={Anonymous Authors},
-  journal={Preprint},
-  year={2024}
+@misc{yang2025sparsebrainsadaptivebrains,
+      title={Sparse Brains are Also Adaptive Brains: Cognitive-Load-Aware Dynamic Activation for LLMs}, 
+      author={Yiheng Yang and Yujie Wang and Chi Ma and Lei Yu and Emmanuele Chersoni and Chu-Ren Huang},
+      year={2025},
+      eprint={2502.19078},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.19078}, 
 }
 ```
 
